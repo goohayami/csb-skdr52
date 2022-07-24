@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://goohayami.github.io/csb-skdr52/static/css/main.26495d14.chunk.css",
+    "main.js": "https://goohayami.github.io/csb-skdr52/static/js/main.ec5aa6e6.chunk.js",
+    "main.js.map": "https://goohayami.github.io/csb-skdr52/static/js/main.ec5aa6e6.chunk.js.map",
+    "runtime-main.js": "https://goohayami.github.io/csb-skdr52/static/js/runtime-main.c02b70f4.js",
+    "runtime-main.js.map": "https://goohayami.github.io/csb-skdr52/static/js/runtime-main.c02b70f4.js.map",
+    "static/js/2.e97caeed.chunk.js": "https://goohayami.github.io/csb-skdr52/static/js/2.e97caeed.chunk.js",
+    "static/js/2.e97caeed.chunk.js.map": "https://goohayami.github.io/csb-skdr52/static/js/2.e97caeed.chunk.js.map",
+    "index.html": "https://goohayami.github.io/csb-skdr52/index.html",
+    "precache-manifest.c39d4c724fa3bc8652e38d63c8bcf064.js": "https://goohayami.github.io/csb-skdr52/precache-manifest.c39d4c724fa3bc8652e38d63c8bcf064.js",
+    "service-worker.js": "https://goohayami.github.io/csb-skdr52/service-worker.js",
+    "static/css/main.26495d14.chunk.css.map": "https://goohayami.github.io/csb-skdr52/static/css/main.26495d14.chunk.css.map",
+    "static/js/2.e97caeed.chunk.js.LICENSE.txt": "https://goohayami.github.io/csb-skdr52/static/js/2.e97caeed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02b70f4.js",
+    "static/js/2.e97caeed.chunk.js",
+    "static/css/main.26495d14.chunk.css",
+    "static/js/main.ec5aa6e6.chunk.js"
+  ]
+}
